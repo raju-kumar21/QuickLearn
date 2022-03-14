@@ -115,12 +115,14 @@ a:hover{
 .card {
   transition: all 0.2s ease-in;
   cursor: pointer;
+  background-color: #b1b5ae;
+  border-radius: 1.25rem;
 }
 /* css for image inside card */
 .card-img-top {
   margin: 0.25rem;
   padding: 0.25rem;
-  border-radius: 0.2rem;
+  border-radius: 1.25rem;
 }
 /* card hover effect */
 .card:hover {
@@ -482,6 +484,7 @@ footer {
 /* Dark Mode */
 .dark {
   background-color: black;
+  color: white;
 }
 
 .dark-para {
