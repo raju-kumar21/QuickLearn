@@ -311,6 +311,7 @@ a:hover{
 /*Contact*/
 #contactHeading {
   color: var(--primary-title);
+  color: black;
   font-size: 3.5rem;
   font-family: "Poppins", sans-serif;
   font-weight: bolder;
@@ -366,10 +367,22 @@ footer {
   color: var(--primary-title);
   font-size: 1.2rem;
 }
+/* Footer CSS */
+#footer{
+  background-color: rgb(255 5 5 / 29%);
+  padding: 20px;
+}
 /* Responsiveness */
 @media screen and (max-width: 768px) {
   #mainHeading {
     font-size: 2rem;
+  }
+  #resourceReferenceBox{
+    background-size: 829px;
+    height: fit-content;
+  }
+  #resourceReferenceHeading{
+    font-size: 4rem;
   }
 }
 
