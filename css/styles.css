@@ -114,6 +114,7 @@ a:hover{
 }
 .card {
   transition: all 0.2s ease-in;
+  padding: 1.1rem;
   cursor: pointer;
 }
 /* css for image inside card */
