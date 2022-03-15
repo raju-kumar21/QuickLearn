@@ -74,7 +74,7 @@ A collection of resources categorised by tech domains, languages, expertise and 
 - Fork and clone the Repo by typing the following commands in the terminal
 
 ```
-$ git clone https://github.com/DSC-JSS-NOIDA/QuickLearn.git
+$ git clone https://github.com/<your-github-username>/QuickLearn.git
 $ cd QuickLearn
 ```
 
