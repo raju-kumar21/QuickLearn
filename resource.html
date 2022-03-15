@@ -33,8 +33,10 @@
 <body id="resource">
   <!--Navbar Section -->
   <nav class="nav p-3">
-    <a class="nav-link active" aria-current="page" href="./index.html" style="display: block; max-width: 150px;"><img
-        id="quickLearnLogoImg" src="./assets/images/logo.svg" alt="logo_img" /></a>
+
+    <a href="#" id="logo" class="navbar-brand  font-weight-bold">
+      Quick Learn
+    </a>
     <a class="nav-link btn" href="./index.html" id="navResourceBtn">Home</a>
     <span class="btn" onclick="dark_mode()" style="display: block; margin-left: 2px; color: #6940d3;" href="#"><i
         id="darkSwitch2" class="fas fa-moon"></i></span>
@@ -222,7 +224,7 @@
       </li>
       <li class="font">Make changes to the code</li>
       <li class="font">Stage your changes using:</li>
-      
+
       <div class="code">
         <div class="mx-4 my-2 fc" id="2">$ git add .</div>
         <button class="copy-btn" onclick="copy(this.id)" id="2b">Copy</button>
@@ -236,7 +238,7 @@
       </div>
 
       <li class="font">Push the changes to the forked repository using:</li>
-      
+
       <div class="code">
         <div class="mx-4 my-2 fc" id="4">$ git push</div>
         <button class="copy-btn" onclick="copy(this.id)" id="4b">Copy</button>
