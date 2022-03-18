@@ -23,9 +23,9 @@ body {
   
 }
 
-.home{
+/* .home{
   height:90vh;
-}
+} */
 
 input,
 textarea{
@@ -392,8 +392,8 @@ footer {
 /* Responsiveness */
 @media screen and (max-width: 768px) {
   header{
-    height:92vh;
-    border-bottom: 1px solid var(--primary-title);
+    height:auto;
+    margin-bottom: 20px;
   }
   #mainHeading {
     font-size: 1.8rem;
@@ -407,7 +407,7 @@ footer {
   #infoImg1,
   #infoImg2 {
     margin-left: 0;
-    width:95%;
+    width:65%;
     display: block;
     margin: auto;
   }
