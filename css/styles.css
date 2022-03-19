@@ -348,7 +348,7 @@ textarea.contact-input-tags {
   border: 2px solid var(--primary-title);
   color: white;
   /* border-radius: 45px; */
-}
+
 
 #contactBtn:hover {
   background-color: white;
@@ -381,17 +381,6 @@ textarea.contact-input-tags {
 
 .form-inputs{
   border: 1.5px var(--primary-title) solid;
-}
-
-.other-contact-info{
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border: 1px var(--primary-title) solid;
-  border-radius: 10px;
-  padding: 5px;
-}
-
-.other-contact-info > li{
-  border: 1px var(--primary-title) solid;
 }
 
 
