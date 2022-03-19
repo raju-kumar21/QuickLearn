@@ -23,6 +23,17 @@ body {
   
 }
 
+/* .home{
+  height:90vh;
+} */
+
+input,
+textarea{
+  outline-style:none;
+  border: 1px solid var(--primary-title) !important;
+  border-radius: 5px !important;
+}
+
 
 html {
   scroll-behavior: smooth;
@@ -69,7 +80,9 @@ a:hover{
   font-size: 20px;
 }
 #infoImg1 {
-  width: 60%;
+  width: 100%;
+  height:auto;
+  margin-top: -20px;
   margin-left: 10%;
 }
 #exploreBtn {
@@ -118,6 +131,8 @@ a:hover{
   cursor: pointer;
   background-color: #b1b5ae;
   border-radius: 1.25rem;
+  box-shadow: 0px 0px 5px #6940d3;
+
 }
 /* css for image inside card */
 .card-img-top {
@@ -332,7 +347,7 @@ textarea.contact-input-tags {
   background-color: var(--primary-title);
   border: 2px solid var(--primary-title);
   color: white;
-  border-radius: 45px;
+  /* border-radius: 45px; */
 }
 
 #contactBtn:hover {
@@ -376,15 +391,48 @@ footer {
 }
 /* Responsiveness */
 @media screen and (max-width: 768px) {
-  #mainHeading {
-    font-size: 2rem;
+  header{
+    height:auto;
+    margin-bottom: 20px;
   }
+  #mainHeading {
+    font-size: 1.8rem;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  #hackfest .row{
+    flex-direction: column;
+  }
+  #infoImg1,
+  #infoImg2 {
+    margin-left: 0;
+    width:65%;
+    display: block;
+    margin: auto;
+  }
+
   #resourceReferenceBox{
+    align-items: center;
+    text-align: center;
     background-size: 829px;
     height: fit-content;
   }
   #resourceReferenceHeading{
     font-size: 4rem;
+  }
+
+  #contactBtn{
+    width:100%;
+  }
+
+  #contributionBtn,
+  #exploreBtn {
+    width:100%;
+  }
+
+  #aboutUs .row{
+    flex-direction: column-reverse;
   }
 }
 

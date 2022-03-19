@@ -15,7 +15,11 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
   <!--Bootstrap Icons -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
-
+<!-- animate css -->
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
 
   <!----- FAVICON ------->
 
@@ -25,15 +29,15 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+
   <title>Quick Learner</title>
   <style>
     .img-sz {
       width: 10rem;
-      height: 8rem;
+      height: auto;
     }
 
   </style>
-
 </head>
 
 <body>
@@ -47,24 +51,25 @@
   </nav>
   <!-- Header Section -->
   <header>
-    <div class="container my-5" id="aboutUs">
+    <div class="container" id="aboutUs">
       <!-- Text Section -->
       <div class="row">
         <div class="
               col-12 col-md-6
-              p-3
+              px-3
               d-flex
               flex-column
-              justify-content-center
+              justify-content-md-center
+              home
             ">
-          <h1 id="mainHeading">
+          <h1 id="mainHeading" class=" animate__animated animate__fadeInLeft">
             Searching for Resources to Learn new Skills?<br />Here we are!
           </h1>
-          <a href="./resource.html" class="btn px-3 py-2 mt-5" id="exploreBtn">
+          <a href="./resource.html" class="btn px-3 py-2 mt-5 animate__animated animate__fadeInLeft" id="exploreBtn">
             Explore Resources
           </a>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-5 animate__animated animate__fadeInRight">
           <!--Image/Illustration Needed-->
           <img src="./assets/images/Group 540.svg" id="infoImg1" alt="img" />
         </div>
@@ -73,7 +78,7 @@
   </header>
   <!--Header Section Ends -->
   <section id="hackfest">
-    <div class="container my-5">
+    <div class="container my-md-5">
       <div class="row">
         <div class="col-12 col-md-6">
           <!--Image/Illustration Needed-->
@@ -164,7 +169,7 @@
   <!--Feature Section Ends -->
   <!-- Resource Section Reference -->
   <section id="resourceReference" class="mb-1">
-    <div class="container-fluid my-3" id="resourceReferenceBox"
+    <div class="container-fluid" id="resourceReferenceBox"
       style="background-image: url('assets/images/bg-cta.jpg'); background-size: cover; background-position: top center ;">
       <h2 id="resourceReferenceHeading">
         Stop <br />
@@ -191,17 +196,17 @@
           <form action="https://formspree.io/f/xdoynnyq" method="POST" id="my-form">
             <div class="input-container">
               <!-- <label class="contact-inputs" for="validationCustom01"></label> -->
-              <input type="text" class="form-control form-control-lg contact-input-tags border-0 border-bottom rounded-0 shadow-none" id="validationCustom01"
+              <input type="text" class="form-control form-control-lg contact-input-tags shadow-none" id="validationCustom01"
               placeholder="Enter your name" name="name" autocomplete="off">
             </div>
             <div class="input-container mt-2">
               <!-- <label class="contact-inputs" for="validationCustom02"></label> -->
-              <input type="email" class="form-control form-control-lg contact-input-tags border-0 border-bottom rounded-0 shadow-none" id="validationCustom02"
+              <input type="email" class="form-control form-control-lg contact-input-tags shadow-none" id="validationCustom02"
               placeholder="Enter your email address" name="email" autocomplete="off">
             </div>
             <div class="input-container mt-2">
               <!-- <label class="contact-inputs" for="validationCustom03"></label> -->
-              <textarea type="text" class="form-control form-control-lg contact-input-tags border-0 border-bottom rounded-0 shadow-none" id="validationCustom03"
+              <textarea type="text" class="form-control form-control-lg contact-input-tags shadow-none" id="validationCustom03"
               placeholder="Enter your message here . . ." rows="4" name="message"></textarea>
             </div>
             <div class="mt-2 mb-2">
@@ -209,7 +214,7 @@
             </div>
           </form>
         </div>
-        <div class="col-lg-6 col-md-12">
+        <div class="col-lg-6 col-md-12 mt-5">
           <ul class="list-group list-group-flush lead">
             <li class="list-group-item">
               <span class="fw-bold"> <a href="https://www.dscjss.in/" target="_blank" ><i
@@ -286,6 +291,7 @@
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
     crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  
   <script>
     $(document).ready(function (e) {
       $('.mybutton').on('mouseenter', function (e) {
