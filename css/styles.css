@@ -326,7 +326,7 @@ a:hover{
   border: 2px solid var(--primary-title);
 }
 /*Contact*/
-#contactHeading {
+/* #contactHeading {
   color: var(--primary-title);
   color: black;
   font-size: 3.5rem;
@@ -348,13 +348,41 @@ textarea.contact-input-tags {
   border: 2px solid var(--primary-title);
   color: white;
   /* border-radius: 45px; */
-}
+
 
 #contactBtn:hover {
   background-color: white;
   border: 2px solid var(--primary-title);
   color: var(--primary-title);
+} */
+#my-form{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
 }
+
+#contactHeading{
+  color: var(--primary-title);
+}
+
+#contactSubheading{
+  color: #778899;
+}
+
+#contactBtn {
+  border: 1px var(--primary-title) solid;
+  color: var(--primary-title);
+}
+
+#contactBtn:hover {
+  background-color: var(--primary-title);
+  color: white;
+  transition: all 0.3s ease-in;
+}
+
+.form-inputs{
+  border: 1.5px var(--primary-title) solid;
+}
+
 
 #social-section li {
   width: 50%;
