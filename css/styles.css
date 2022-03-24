@@ -52,6 +52,12 @@ a:hover{
 #quickLearnLogoImg {
   width: 100%;
 }
+.nav{
+  position: sticky;
+  top: 0%;
+  z-index: 10;
+  background-color: #f1f1f2;
+}
 #navResourceBtn {
   box-sizing: border-box;
   padding-left: 1%;
@@ -275,6 +281,7 @@ a:hover{
   padding: 8px;
 }
 #sidebar {
+  z-index: 5;
   background: var(--primary-background);
   width: fit-content;
   border-radius: 15px;
