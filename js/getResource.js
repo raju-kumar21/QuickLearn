@@ -10,12 +10,13 @@ const intermediateResourceBox = document.getElementById(
 );
 const advancedResourceBox = document.getElementById("advancedResourceBox");
 // const domains = ["web","web","web"];
-const programming = ["c++", "java", "python"];
+const programming = ["c++", "java", "python", "javascript"];
 const programmingLength = programming.length;
 const domains = [
   "c++",
   "java",
   "python",
+  "javascript",
   "frontend",
   "backend",
   "mern",
