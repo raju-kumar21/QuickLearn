@@ -199,3 +199,7 @@ $ git fetch <remote>
 </div>
 
 <!-- "https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png" -->
+
+## License
+
+Licensed under the [MIT license](LICENSE).
