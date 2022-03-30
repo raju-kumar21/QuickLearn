@@ -139,11 +139,11 @@ $ git remote -v
 ``` 
 Adding Remote Repositories
 ```
-git remote add <shortname> <url>
+git remote add upstream https://github.com/DSC-JSS-NOIDA/QuickLearn.git
 ```
-Fetching and Pulling from Your Remotes
+Pulling from Your Remote
 ```
-$ git fetch <remote>
+$ git pull upstream main
 ```
 
 ## Resources
