@@ -21,6 +21,7 @@ const domains = [
   "backend",
   "mern",
   "mean",
+  "mevn",
   "android",
   "flutter",
   "ios",
