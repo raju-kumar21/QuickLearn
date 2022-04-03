@@ -130,6 +130,21 @@ $ git push
 ```
 
 - Navigate to the original repository and make a pull request
+```
+Showing Your Remotes
+
+$ git remote
+
+$ git remote -v
+``` 
+Adding Remote Repositories
+```
+git remote add upstream https://github.com/DSC-JSS-NOIDA/QuickLearn.git
+```
+Pulling from Your Remote
+```
+$ git pull upstream main
+```
 
 ## Resources
 
@@ -184,3 +199,7 @@ $ git push
 </div>
 
 <!-- "https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png" -->
+
+## License
+
+Licensed under the [MIT license](LICENSE).
