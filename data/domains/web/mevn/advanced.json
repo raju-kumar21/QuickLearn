@@ -1,0 +1,14 @@
+[
+    {
+        "title": "API Refrence",
+        "link": "https://vuejs.org/api/"
+    },
+    {
+        "title": "Vue - The Complete Guide (incl. Router & Composition API)",
+        "link": "https://www.udemy.com/course/vuejs-2-the-complete-guide/?couponCode=D_0422"
+    },
+    {
+        "title": "Vue Js Style Guide",
+        "link": "https://v2.vuejs.org/v2/style-guide/?redirect=true"
+    }
+]
