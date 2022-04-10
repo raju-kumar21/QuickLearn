@@ -22,6 +22,7 @@ const domains = [
   "mern",
   "mean",
   "mevn",
+  "ruby_on_rails",
   "android",
   "flutter",
   "ios",
