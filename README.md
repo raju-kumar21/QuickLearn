@@ -79,6 +79,8 @@ A collection of resources categorised by tech domains, languages, expertise and 
      <td align="center"><a href="https://github.com/vijayyprajapati"><img alt="Vijay Kumar Prajapati
 " src="https://avatars.githubusercontent.com/u/77984904?v=4" width="100px;"><br><sub><b>Vijay Kumar Prajapati
 </b></sub></a><br></td></a></td>
+     <td align="center"><a href="https://github.com/AMAN123956"><img alt="Aman Dixit" src="https://avatars.githubusercontent.com/u/56161073?v=4" width="100px;"><br><sub><b>Aman Dixit
+</b></sub></a><br></td></a></td>
 
 </tbody></table>
 
