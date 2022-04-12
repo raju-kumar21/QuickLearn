@@ -1,6 +1,12 @@
 <!-- <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/42115530/94295926-a5741880-ff7f-11ea-890b-39ad20ac0f21.png" height='150' width='350'></div> -->
 
-<div align="center"> <img align="center" alt="dschackfest" src="https://res.cloudinary.com/de4by5q8o/image/upload/v1633197681/hackfest2021_ocjn5n.svg" height='150' width='350'></div>
+<div align="center">
+ <a href="https://hacktoberfest.digitalocean.com/"><img align="center" alt="dschackfest" src="https://res.cloudinary.com/de4by5q8o/image/upload/v1633197681/hackfest2021_ocjn5n.svg" height='150' width='350'></a>
+</div><br>
+
+<div align="center">
+<a href="https://gssoc.girlscript.tech/"><img align="center" alt="gssoc22" src="https://raw.githubusercontent.com/GSSoC-Web/gssoc-assets/main/Logos/GS_logo_White.png" height="100" width="500" ></a>
+</div>
 
 ## QuickLearn
 
@@ -52,6 +58,31 @@ A collection of resources categorised by tech domains, languages, expertise and 
 | 1.    | [master](https://github.com/DSC-JSS-NOIDA/foss-events/tree/master)   | contains the frontend code |
 | 2.    | [backend](https://github.com/DSC-JSS-NOIDA/foss-events/tree/backend) | contains all backend code  | -->
 
+
+<hr>
+ <h1 align=center> Project Admin</h1>
+<p align="center">
+<table>
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/rucha0702"><img alt="Rucha Kasture" src="https://avatars.githubusercontent.com/u/77936051?v=4" width="100px;"><br><sub><b> Rucha Kasture
+ </b></sub></a><br></td> </a></td>
+
+</tbody></table>
+
+ <h1 align=center> Project Mentors</h1>
+<p align="center">
+<table>
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/the-macson"><img alt="Mukesh Kumar
+" src="https://avatars.githubusercontent.com/u/71259159?v=4" width="100px;"><br><sub><b>Mukesh Kumar
+ </b></sub></a><br></td> </a></td>
+     <td align="center"><a href="https://github.com/vijayyprajapati"><img alt="Vijay Kumar Prajapati
+" src="https://avatars.githubusercontent.com/u/77984904?v=4" width="100px;"><br><sub><b>Vijay Kumar Prajapati
+</b></sub></a><br></td></a></td>
+
+</tbody></table>
+
+
 ## Our Contributors  !! ✨
 ### Thanks to these wonderful people: ✨
 
@@ -66,6 +97,12 @@ A collection of resources categorised by tech domains, languages, expertise and 
 </table>
 
 ## Get Started
+
+### Demo <a href="https://drive.google.com/file/d/1Z6bihDrFMUPy8j5nIqzwnqP4pl_OgPXc/view" style="text-decoration:none;">🎥</a>
+
+#### Website for this repository : <https://dsc-jss-noida.github.io/QuickLearn/>
+
+<br>
 
 ### Steps for Contributing
 
