@@ -1,0 +1,12 @@
+[
+    {
+        "title" :"Introduction- Ruby on Rails",
+        "link" : "https://www.tutorialspoint.com/ruby-on-rails/rails-introduction.htm"
+    },
+    
+    {
+        "title": "Guide to Ruby on Rails ",
+        "link": "https://guides.rubyonrails.org/"
+    }
+
+]
