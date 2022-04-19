@@ -60,29 +60,6 @@ A collection of resources categorised by tech domains, languages, expertise and 
 
 
 <hr>
- <h1 align=center> Project Admin</h1>
-<p align="center">
-<table>
-  <tbody><tr>
-     <td align="center"><a href="https://github.com/rucha0702"><img alt="Rucha Kasture" src="https://avatars.githubusercontent.com/u/77936051?v=4" width="100px;"><br><sub><b> Rucha Kasture
- </b></sub></a><br></td> </a></td>
-
-</tbody></table>
-
- <h1 align=center> Project Mentors</h1>
-<p align="center">
-<table>
-  <tbody><tr>
-     <td align="center"><a href="https://github.com/the-macson"><img alt="Mukesh Kumar
-" src="https://avatars.githubusercontent.com/u/71259159?v=4" width="100px;"><br><sub><b>Mukesh Kumar
- </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/vijayyprajapati"><img alt="Vijay Kumar Prajapati
-" src="https://avatars.githubusercontent.com/u/77984904?v=4" width="100px;"><br><sub><b>Vijay Kumar Prajapati
-</b></sub></a><br></td></a></td>
-     <td align="center"><a href="https://github.com/AMAN123956"><img alt="Aman Dixit" src="https://avatars.githubusercontent.com/u/56161073?v=4" width="100px;"><br><sub><b>Aman Dixit
-</b></sub></a><br></td></a></td>
-
-</tbody></table>
 
 
 ## Our Contributors  !! ✨
