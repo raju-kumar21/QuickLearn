@@ -1,18 +1,22 @@
 [
     {
         "title": "GeeksForGeeks",
-        "link": "https://www.geeksforgeeks.org/java/"
+        "link": "https://www.geeksforgeeks.org/java/",
+        "type": "docs"
     },
     {
         "title": "Java Documentation",
-        "link": "https://docs.oracle.com/en/java/"
+        "link": "https://docs.oracle.com/en/java/",
+        "type": "docs"
     },
     {
         "title": "FreeCodeCamp",
-        "link": "https://www.freecodecamp.org/news/tag/java/"
+        "link": "https://www.freecodecamp.org/news/tag/java/",
+        "type": "docs"
     },
     {
         "title": "Java resources",
-        "link": "https://www.infoworld.com/article/2074929/my-favorite-online-resources-for-advanced-java-developers.html"
+        "link": "https://www.infoworld.com/article/2074929/my-favorite-online-resources-for-advanced-java-developers.html",
+        "type": "docs"
     }
 ]
