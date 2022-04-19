@@ -1,20 +1,24 @@
 [
     {
         "title": "Coursera- Data Structures",
-        "link": "https://www.coursera.org/learn/data-structures"
+        "link": "https://www.coursera.org/learn/data-structures",
+        "type": "video"
     },
     
     {
         "title": "Khan Academy- Algorithms",
-        "link": "https://www.khanacademy.org/computing/computer-science/algorithms"
+        "link": "https://www.khanacademy.org/computing/computer-science/algorithms",
+        "type": "docs"
     },
     {
         "title": "Coursera- Algorithms",
-        "link": "https://www.coursera.org/learn/algorithms-part1"
+        "link": "https://www.coursera.org/learn/algorithms-part1",
+        "type": "video"
     },
     {
         "title" :"Linked Lists",
-        "link":"https://youtu.be/Hj_rA0dhr2I"
+        "link":"https://youtu.be/Hj_rA0dhr2I",
+        "type": "video"
     }
     
 
