@@ -1,12 +1,12 @@
 <!-- <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/42115530/94295926-a5741880-ff7f-11ea-890b-39ad20ac0f21.png" height='150' width='350'></div> -->
 
-<div align="center">
- <a href="https://hacktoberfest.digitalocean.com/"><img align="center" alt="dschackfest" src="https://res.cloudinary.com/de4by5q8o/image/upload/v1633197681/hackfest2021_ocjn5n.svg" height='150' width='350'></a>
-</div><br>
+<div>
+    <img align=top src="https://miro.medium.com/max/1400/1*c4YgRXYQayOVWxV37ourrw.png" height="100" width="50%"/>
+    <img align=top src="https://res.cloudinary.com/de4by5q8o/image/upload/v1633197681/hackfest2021_ocjn5n.svg" height="100" width="49%"/>
+<div>
+<br>
 
-<div align="center">
-<a href="https://gssoc.girlscript.tech/"><img align="center" alt="gssoc22" src="https://raw.githubusercontent.com/GSSoC-Web/gssoc-assets/main/Logos/GS_logo_White.png" height="100" width="500" ></a>
-</div>
+
 
 ## QuickLearn
 
@@ -219,3 +219,4 @@ $ git pull upstream main
 ## License
 
 Licensed under the [MIT license](LICENSE).
+
