@@ -1,23 +1,28 @@
 [
     {
         "title": "Programiz",
-        "link": "https://www.programiz.com/java-programming"
+        "link": "https://www.programiz.com/java-programming",
+        "type": "docs"
     },
     {
         "title": "W3Schools",
-        "link": "https://www.w3schools.com/java/"
+        "link": "https://www.w3schools.com/java/",
+        "type": "docs"
     },
     {
         "title": "Tutorials Point",
-        "link": "https://www.tutorialspoint.com/java/index.htm"
+        "link": "https://www.tutorialspoint.com/java/index.htm",
+        "type": "docs"
     },
     {
         "title": "Java resources",
-        "link": "https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html"
+        "link": "https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html",
+        "type": "docs"
     },
     {
         "title": "GeeksforGeeks",
-        "link": "https://www.geeksforgeeks.org/java/"
+        "link": "https://www.geeksforgeeks.org/java/",
+        "type": "docs"
     }
     
 

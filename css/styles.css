@@ -134,7 +134,6 @@ a:hover{
 .card {
   transition: all 0.2s ease-in;
   padding: 1.1rem;
-  cursor: pointer;
   background-color: #96a6ce5b;
   border-radius: 1.25rem;
   box-shadow: 5px 5px 10px #b69ef1;
@@ -378,6 +377,9 @@ textarea.contact-input-tags {
 #contactBtn {
   border: 1px var(--primary-title) solid;
   color: var(--primary-title);
+  /* padding-left: 100px;
+  padding-right: 100px; */
+  width: 40%;
 }
 
 #contactBtn:hover {
@@ -633,6 +635,19 @@ footer {
 .dark-points {
   color: #6940d3;
 }
+
+.list-group-item{
+  width: 500px;
+  height: auto;
+  text-align: left;
+  margin-bottom: 7px;
+}
+.list-group-item p {
+  text-align: left;
+  padding-left: 40px;
+}
+
+
 /*Dark Mode CSS Ends*/
 
 @media screen and (max-width: 380px) {
@@ -647,3 +662,4 @@ footer {
     font-size: 1.5rem;
   }
 }
+
