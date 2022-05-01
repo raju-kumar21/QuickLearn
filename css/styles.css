@@ -156,7 +156,7 @@ a:hover{
   border-radius: 0.8rem;
 }
 .card-body {
-  min-height: 150px;
+  min-height: 145px;
 }
 .text-center {
   display: flex;
