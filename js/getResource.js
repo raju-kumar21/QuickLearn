@@ -41,6 +41,7 @@ const domains = [
   "machine_learning",
   "big_data",
   "statistics",
+  "git",
   "data_structure_&_algorithm",
   "data_management",
   "blockchain",
@@ -81,7 +82,7 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
     advancedResourceBox.innerHTML = "";
     const value = selectCategoryBtn[i].value;
 
-    if (value == "Blockchain" || value == "ethical_hacking" || value == "Game_dev" || value == "robotics" || value == "CyberSecurity" || value == "data_structure_&_algorithm" || value == "database_management" || value == "api") {
+    if (value == "Blockchain" || value == "ethical_hacking" || value == "Game_dev" ||value == "robotics" || value == "CyberSecurity" || value == "git" || value == "data_structure_&_algorithm" || value == "database_management" || value == "api") {
       console.log("hello");
       /* beginner*/
       bres = await fetch(`./data/domains/${value}/beginner.json`);
