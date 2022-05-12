@@ -18,5 +18,25 @@
         "title": "Java resources",
         "link": "https://www.infoworld.com/article/2074929/my-favorite-online-resources-for-advanced-java-developers.html",
         "type": "docs"
+    },
+    {
+        "title": "Simplilearn",
+        "link": "https://youtu.be/Ae-r8hsbPUo",
+        "type": "video"
+    },
+    {
+        "title": "Edureka",
+        "link": "https://youtu.be/vJ-Zn4fo0MQ",
+        "type": "video"
+    },
+    {
+        "title": "Java Cheatsheet",
+        "link": "https://introcs.cs.princeton.edu/java/11cheatsheet/",
+        "type": "docs"
+    },
+    {
+        "title": "Java repository",
+        "link": "https://github.com/swati-gwc/Java-programs",
+        "type": "docs"
     }
 ]

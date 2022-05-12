@@ -13,5 +13,25 @@
         "title": "Hackerrank",
         "link": "https://www.hackerrank.com/domains/java",
         "type": "docs"
+    },
+    {
+        "title": "FreeCodeCamp",
+        "link": "https://youtu.be/grEKMHGYyns",
+        "type": "video"
+    },
+    {
+        "title": "Simplilearn",
+        "link": "https://youtu.be/CFD9EFcNZTQ",
+        "type": "video"
+    },
+    {
+        "title": "Java Cheatsheet",
+        "link": "https://hackr.io/blog/java-cheat-sheet",
+        "type": "docs"
+    },
+    {
+        "title": "Java repository",
+        "link": "https://github.com/theabhishek07/Object_Oriented_Programming",
+        "type": "docs"
     }
 ]
