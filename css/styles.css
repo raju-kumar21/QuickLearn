@@ -399,18 +399,13 @@ textarea.contact-input-tags {
   width: 50%;
 }
 
-.social-icons {
-  font-size: 23px;
-  padding: 0.7rem;
-  color: white;
-  background-color: var(--primary-title);
-  border: 1px solid rgb(114, 114, 114);
-  border-radius: 50%;
-}
-.social-icons:hover {
-  background-color: white;
-  color: var(--primary-title);
-  cursor: pointer;
+
+#logo{
+  font-family:cursive;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 10px;
+  color: rgb(81, 93, 105) !important;
 }
 
 /* Footer */
