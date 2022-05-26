@@ -95,6 +95,7 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
 			value == 'CyberSecurity' ||
 			value == 'data_structure_&_algorithm' ||
 			value == 'database_management' ||
+      value == 'git' ||
 			value == 'api'
 		) {
 			console.log('hello');
