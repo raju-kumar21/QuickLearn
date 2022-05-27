@@ -49,7 +49,8 @@ const domains = [
   "ethical_hacking",
   "Game_dev",
   "robotics",
-  "CyberSecurity"
+  "CyberSecurity",
+  "linux"
 ];
 let bres = '';
 let bdata = '';
@@ -96,7 +97,8 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
 			value == 'data_structure_&_algorithm' ||
 			value == 'database_management' ||
       value == 'git' ||
-			value == 'api'
+			value == 'api' ||
+      value == 'linux'
 		) {
 			console.log('hello');
 			/* beginner*/
@@ -148,7 +150,9 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
 			adata = await ares.json();
 		}
     
-    if (value == "Blockchain" || value == "ethical_hacking" || value == "Game_dev" ||value == "robotics" || value == "CyberSecurity" || value == "git" || value == "data_structure_&_algorithm" || value == "database_management" || value == "api") {
+    /* new feature added linux resources*/
+
+    if (value == "Blockchain" || value == "ethical_hacking" || value == "Game_dev" ||value == "robotics" || value == "CyberSecurity" || value == "git" || value == "data_structure_&_algorithm" || value == "database_management" || value == "api" || value == "linux") {
       console.log("hello");
       /* beginner*/
       bres = await fetch(`./data/domains/${value}/beginner.json`);
